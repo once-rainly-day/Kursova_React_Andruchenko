@@ -1,0 +1,14 @@
+header {
+    background-color: #b7ffb1;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid rgba(27, 255, 99, 0.733);
+    font-family: 'Lato', sans-serif;
+
+    img {
+        width: 10%;
+        height: auto;
+    }
+}

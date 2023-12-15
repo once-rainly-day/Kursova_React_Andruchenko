@@ -1,0 +1,24 @@
+footer {
+    background-color:  #b7ffb1;
+    color: #000000;
+    padding: 20px;
+    text-align: left;
+    font-weight: bold;
+
+    .footer-content {
+        max-width: 1200px;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        align-items: left;
+
+        p {
+            margin-bottom: 10px;
+        }
+
+        .links img {
+            width: 3%;
+            height: auto;
+        }
+    }
+}
